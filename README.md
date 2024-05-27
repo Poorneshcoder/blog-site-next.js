@@ -28,25 +28,19 @@ Clone the project repository from GitHub to your local machine using the followi
 
 Open a terminal or command prompt and change directory to the project folder:
 
-cd your-project-directory
+`cd your-project-directory`
 
  3.Install Dependencies:
 
 Once inside the project directory, install the necessary dependencies using npm or yarn:
 
-npm install
-or
-
-yarn install
+`npm install`
 
  4.Run the Development Server:
 
 After installing dependencies, start the development server:
 
-npm run dev
-or
-
-yarn dev
+`npm run dev`
 
  5.View the Application:
 
