@@ -23,7 +23,7 @@ Setting up and Running the Project Locally:
 Clone the project repository from GitHub to your local machine using the following command:
 bash
 
-'git clone <repository-url>'
+git clone <repository-url>
 
  2.Navigate to the Project Directory:
 
