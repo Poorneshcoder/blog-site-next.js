@@ -25,6 +25,8 @@ bash
 
 git clone <repository-url>
 
+`git clone <repository-url>`
+
  2.Navigate to the Project Directory:
 
 Open a terminal or command prompt and change directory to the project folder:
