@@ -1,0 +1,20 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.title {
+  color: #333;
+  text-decoration: none; /* Remove underline */
+}
+
+.link {
+  text-decoration: none; /* Remove underline */
+  cursor: pointer;
+}
+
+.link:hover .title {
+  color: #0070f3;
+  text-decoration: underline; /* Show underline on hover for title */
+}
